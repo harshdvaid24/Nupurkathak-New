@@ -1,4 +1,4 @@
-package com.nupurkathaknew
+package com.nupurkathak
 
 import android.app.Application
 import com.facebook.react.PackageList
